@@ -40,5 +40,9 @@ Antes de rodar o projeto, você precisa ter o [Java 8+](https://www.oracle.com/j
 - **GameList.java**: Classe que gerencia a lista de jogos, permitindo adicionar, remover e listar jogos.
 - **GameDTO.java: Classe que faz o transporte dos dados.
 
+## Modelo de Domínio
+![image](https://github.com/user-attachments/assets/6b8cd95b-a1a9-4cca-a9c6-110e1f3edba0)
+
+
 
 
